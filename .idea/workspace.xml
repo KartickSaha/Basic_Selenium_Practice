@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="883c0d41-4322-4cc4-9bb4-bb69c96d847c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Workbook.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/selenium_practice/ExcelDataRead.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_Selenium_Practice.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_practice/Basic_Selenium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_practice/Basic_Selenium.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/selenium_practice/Basic_Selenium.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenium_practice/Basic_Selenium.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/selenium_practice/Broken_Link_P2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenium_practice/Broken_Link_P2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/selenium_practice/Drag_And_Drop.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenium_practice/Drag_And_Drop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/selenium_practice/Frame_Handle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenium_practice/Frame_Handle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_practice/CheckBoxConcept.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_practice/CheckBoxConcept.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_practice/ExcelDataRead.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_practice/ExcelDataRead.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -36,26 +26,26 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="6" />
+          <entry key="java" value="7" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="6" />
+          <entry key="JAVA" value="7" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="163" />
+          <entry key="java" value="243" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="163" />
+          <entry key="JAVA" value="243" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -84,20 +74,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/selenium_practice/Basic_Selenium.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="107" selection-start-line="107" selection-end-line="114" selection-end-column="5" />
+            <state relative-caret-position="264">
+              <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/selenium_practice/ExcelDataRead.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="191">
+              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/selenium_practice/ExcelDataRead.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/selenium_practice/CheckBoxConcept.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="315">
+              <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -126,9 +125,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/selenium_practice/Basic_Selenium.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/selenium_practice/Basic_Selenium.java" />
         <option value="$PROJECT_DIR$/src/test/java/selenium_practice/ExcelDataRead.java" />
+        <option value="$PROJECT_DIR$/src/test/java/selenium_practice/CheckBoxConcept.java" />
       </list>
     </option>
   </component>
@@ -209,11 +209,16 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540483124097" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540484715708" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Basic_Selenium_For_Jenkins" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\MyDevelopment\Basic_Selenium_Practice" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -227,7 +232,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ExcelDataRead">
+  <component name="RunManager" selected="JUnit.CheckBoxConcept.isSelectedcheckBox">
     <configuration name="ExcelDataRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="selenium_practice.ExcelDataRead" />
       <module name="Basic_Selenium_Practice" />
@@ -289,7 +294,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BrokenLinks.brokenLink" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CheckBoxConcept.isSelectedcheckBox" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Basic_Selenium_Practice" />
       <extension name="coverage">
         <pattern>
@@ -298,27 +303,27 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="selenium_practice" />
-      <option name="MAIN_CLASS_NAME" value="selenium_practice.BrokenLinks" />
-      <option name="METHOD_NAME" value="brokenLink" />
+      <option name="MAIN_CLASS_NAME" value="selenium_practice.CheckBoxConcept" />
+      <option name="METHOD_NAME" value="isSelectedcheckBox" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.BrokenLinks.brokenLink" />
       <item itemvalue="JUnit.Basic_Selenium.inputText" />
       <item itemvalue="JUnit.Basic_Selenium.mouseHover" />
       <item itemvalue="JUnit.Basic_Selenium.readXLSheet" />
       <item itemvalue="Application.ExcelDataRead" />
+      <item itemvalue="JUnit.CheckBoxConcept.isSelectedcheckBox" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CheckBoxConcept.isSelectedcheckBox" />
         <item itemvalue="Application.ExcelDataRead" />
         <item itemvalue="JUnit.Basic_Selenium.readXLSheet" />
         <item itemvalue="JUnit.Basic_Selenium.mouseHover" />
         <item itemvalue="JUnit.Basic_Selenium.inputText" />
-        <item itemvalue="JUnit.BrokenLinks.brokenLink" />
       </list>
     </recent_temporary>
   </component>
@@ -348,12 +353,21 @@
     <history-entry file="Basic_Selenium_readXLSheet - 2018.10.25 at 11h 53m 25s.xml">
       <configuration name="Basic_Selenium.readXLSheet" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CheckBoxConcept_isSelectedcheckBox - 2018.10.25 at 12h 21m 34s.xml">
+      <configuration name="CheckBoxConcept.isSelectedcheckBox" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CheckBoxConcept_isSelectedcheckBox - 2018.10.25 at 12h 22m 55s.xml">
+      <configuration name="CheckBoxConcept.isSelectedcheckBox" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CheckBoxConcept_isSelectedcheckBox - 2018.10.25 at 12h 24m 53s.xml">
+      <configuration name="CheckBoxConcept.isSelectedcheckBox" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2540453" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2540453" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -362,7 +376,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32919255" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32919255" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -409,20 +423,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium_practice/Basic_Selenium.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="107" selection-start-line="107" selection-end-line="114" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/selenium_practice/ExcelDataRead.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        <state relative-caret-position="191">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium_practice/Basic_Selenium.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium_practice/CheckBoxConcept.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
         </state>
       </provider>
     </entry>

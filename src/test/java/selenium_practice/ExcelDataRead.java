@@ -10,9 +10,6 @@ import java.io.IOException;
 
 public class ExcelDataRead {
     public static void main(String[] args) throws IOException, InvalidFormatException {
-
-
-  //  public static void readXLSheet() throws IOException, InvalidFormatException {
         FileInputStream fis = new FileInputStream("C:/MyDevelopment/Basic_Selenium_Practice/Workbook.xlsx");
         Workbook wb = WorkbookFactory.create(fis);
         Sheet sheet = wb.getSheet("Sheet1");

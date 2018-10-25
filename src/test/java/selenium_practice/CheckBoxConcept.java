@@ -19,7 +19,7 @@ public class CheckBoxConcept {
     public void setUp(){
         ChromeDriverManager.getInstance().setup();
         driver = new ChromeDriver();
-        driver.navigate().to("https://www.google.com");
+        driver.navigate().to("https://www.costco.com");
 
         driver.manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);
         driver.manage().timeouts().setScriptTimeout(10,TimeUnit.SECONDS);
@@ -37,6 +37,17 @@ public class CheckBoxConcept {
         Thread.sleep(2000);
         WebElement element1 = driver.findElement(By.xpath("//div[@class = 'style-check']/label[@title ='Gas Station' and @for = 'hasGas-desktop']"));
         element1.click();
+    }
+    @Test
+    public void isSelectedcheckBox() throws InterruptedException {
+        WebElement element = driver.findElement(By.xpath("//a[@id = 'warehouse-locations-dropdown']"));
+        Actions action = new Actions(driver);
+        action.moveToElement(element).build().perform();
+        Thread.sleep(2000);
+        WebElement element1 = driver.findElement(By.xpath("//div[@class = 'style-check']/label[@title ='Gas Station' and @for = 'hasGas-desktop']"));
+        element1.click();
+        Boolean check = driver.findElement(By.xpath("//div[@class = 'style-check']/label[@title ='Gas Station' and @for = 'hasGas-desktop']")).isEnabled();
+        System.out.println("Check box is enebled and it is"+check);
     }
 
     @After
