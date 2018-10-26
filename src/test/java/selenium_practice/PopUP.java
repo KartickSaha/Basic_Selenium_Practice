@@ -45,6 +45,23 @@ public class PopUP {
         alert.accept();
 
     }
+    @Test
+    public void alertHandle(){
+       String main =  driver.getWindowHandle();
+
+        WebElement element = driver.findElement(By.xpath("//input[@name='proceed']"));
+        highlight(element);
+        element.click();
+        Alert alert = driver.switchTo().alert();
+        delayFor(2000);
+        System.out.println(alert.getText());
+        alert.accept();
+        driver.switchTo().window(main);
+        String pageTitle =  driver.getTitle();
+        System.out.println("page Title is"+pageTitle);
+
+
+    }
 
     @After
     public void tearDown() throws InterruptedException {

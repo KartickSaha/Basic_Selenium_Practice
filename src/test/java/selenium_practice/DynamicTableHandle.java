@@ -8,11 +8,11 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.interactions.Actions;
 
+import java.util.List;
 import java.util.concurrent.TimeUnit;
 
-public class Mouse_hover_Concept {
+public class DynamicTableHandle {
     protected WebDriver driver;
 
     @Before
@@ -20,7 +20,7 @@ public class Mouse_hover_Concept {
         ChromeDriverManager.getInstance().setup();
 
         driver = new ChromeDriver();
-        driver.navigate().to("https://www.costco.com");
+        driver.navigate().to("https://www.w3schools.com/sql/sql_join.asp");
 
         driver.manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);
         driver.manage().timeouts().setScriptTimeout(10,TimeUnit.SECONDS);
@@ -29,12 +29,21 @@ public class Mouse_hover_Concept {
         driver.manage().window().maximize();//maximize the window
         driver.manage().deleteAllCookies();//delete cookies
     }
-    @Test
-    public void mouseHover(){
-        WebElement element = driver.findElement(By.xpath("//a[@id = 'warehouse-locations-dropdown']"));
-        Actions action = new Actions(driver);
-        action.moveToElement(element).build().perform();
 
+    @Test
+    public void tableHandle(){
+       WebElement mainTable = driver.findElement(By.xpath("//div[@class='w3-responsive']"));
+       List<WebElement> table_row = mainTable.findElements(By.tagName("tr"));
+       int totalRow = table_row.size();
+        System.out.println("Toatal number of row is "+table_row);
+       for(int row=0;row<totalRow;row++){
+         List<WebElement> table_column = table_row.get(row).findElements(By.tagName("td"));
+        int totalColumn = table_column.size();
+        for(int column=0;column<totalColumn;column++){
+            String cellText = table_column.get(column).getText();
+            System.out.println("Cell text is "+ cellText);
+        }
+       }
 
     }
 
