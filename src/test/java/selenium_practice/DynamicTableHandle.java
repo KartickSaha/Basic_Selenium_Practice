@@ -9,6 +9,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
+import java.awt.*;
+import java.awt.event.KeyEvent;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
@@ -31,7 +33,11 @@ public class DynamicTableHandle {
     }
 
     @Test
-    public void tableHandle(){
+    public void tableHandle() throws AWTException {
+     /*   Robot robot = new Robot();
+        robot.keyPress(KeyEvent.VK_PAGE_DOWN);
+        robot.keyRelease(KeyEvent.VK_PAGE_DOWN);*/
+
        WebElement mainTable = driver.findElement(By.xpath("//div[@class='w3-responsive']"));
        List<WebElement> table_row = mainTable.findElements(By.tagName("tr"));
        int totalRow = table_row.size();
