@@ -44,4 +44,34 @@ public class RestAssuredConcept {
         System.out.println("Response code is-->"+resCode);
         Assert.assertEquals(resCode,201);
     }
+    @Test
+    public void createDeleteStatement(){
+        RequestSpecification requestSpecification = RestAssured.given();
+        Response response  = requestSpecification.delete("https://reqres.in/api/users/2");
+        String resBody = response.getBody().print();
+        System.out.println("Response Body is-->"+resBody);
+        int resCode = response.getStatusCode();
+        System.out.println("Response code is-->"+resCode);
+        Assert.assertEquals(resCode,204);
+    }
+
+    @Test
+    public void createPutStatement(){
+        RequestSpecification requestSpecification = RestAssured.given();
+        requestSpecification.header("Content-Type","application/json");
+
+        JSONObject jsonObject = new JSONObject();
+        jsonObject.put("name","Kartick");
+        jsonObject.put("job","Automation Tester");
+
+        requestSpecification.body(jsonObject.toJSONString());
+        Response response  = requestSpecification.put("https://reqres.in/api/users");
+        String resBody = response.getBody().print();
+        System.out.println("Response Body is-->"+resBody);
+        int resCode = response.getStatusCode();
+        System.out.println("Response code is-->"+resCode);
+        Assert.assertEquals(resCode,200);
+
+
+    }
 }
