@@ -17,6 +17,7 @@ public class RestAssuredConcept {
         System.out.println("Status code is-->"+statusCode);
         Assert.assertEquals(statusCode,200);
 
+
     }
     @Test
     public void testResponseData() {
