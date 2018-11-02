@@ -102,6 +102,8 @@ public class Basic_Selenium {
         action.moveToElement(element).build().perform();
         Thread.sleep(2000);
         WebElement element1 = driver.findElement(By.xpath("//div[@class = 'style-check']/label[@title ='Gas Station' and @for = 'hasGas-desktop']"));
+        highlight(element1);
+        Thread.sleep(2000);
         element1.click();
     }
 
@@ -111,5 +113,17 @@ public class Basic_Selenium {
     // driver.quit();  // To close all the opened WebDriver instances
     //Add one more line
 }
+
+    protected void highlight(WebElement element) throws InterruptedException {
+        for (int i = 0; i < 3; i++) {
+            JavascriptExecutor js = (JavascriptExecutor) driver;
+            js.executeScript("arguments[0].setAttribute('style', arguments[1]);", element, "border: 3px solid red;");
+           Thread.sleep(2000);
+            js.executeScript(
+                    "arguments[0].setAttribute('style', arguments[1]);",
+                    element, "");
+
+        }
+    }
 
 }

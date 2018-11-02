@@ -67,6 +67,32 @@ public class Broken_Link_P2 {
             }
         }
     }
+    @Test
+    public void broken_link_01() throws IOException {
+        List<WebElement> link = driver.findElements(By.tagName("a"));
+        link.addAll(driver.findElements(By.tagName("img")));
+        int totalLink = link.size();
+        System.out.println("Total Size-->"+totalLink);
+
+        List<WebElement> activeLink = new ArrayList<WebElement>();
+
+        for(int i = 0; i<totalLink;i++) {
+            if (link.get(i).getAttribute("href") != null && (!link.get(i).getAttribute("href")
+                    .contains("javascript"))) {
+                activeLink.add(link.get(i));
+                System.out.println("Tatal active link is-->" + activeLink.size());
+
+                for (int j = 0; j < activeLink.size(); j++) {
+                    HttpURLConnection connection = (HttpURLConnection)
+                            new URL(activeLink.get(j).getAttribute("href")).openConnection();
+                    connection.connect();
+                    String responsemsg = connection.getResponseMessage();
+                    System.out.println("Response message is -->"+responsemsg);
+                    connection.disconnect();
+                }
+            }
+        }
+    }
 
     @After
     public void tearDown(){
