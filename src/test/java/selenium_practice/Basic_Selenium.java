@@ -67,10 +67,9 @@ public class Basic_Selenium {
     public void clearText() throws InterruptedException {
         WebElement element = driver.findElement(By.id("search-field"));
         element.sendKeys("Book");
-        element.getText();//Using getText() for getting locator value
+        //element.getText();//Using getText() for getting locator value
         System.out.println(element);
-        Thread.sleep(4000);
-
+        //Thread.sleep(4000);
 
         //Use clear() to clear the text from search box
         driver.findElement(By.id("search-field")).clear();
