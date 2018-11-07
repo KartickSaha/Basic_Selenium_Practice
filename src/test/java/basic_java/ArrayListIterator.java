@@ -1,20 +1,14 @@
 package basic_java;
-
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Iterator;
 
 public class ArrayListIterator {
-
-
-        public static void main(String []args) {
+    public static void main(String []args) {
             readDataFromArrayList();
             copyDataFromArrayList();
             reverseArrayList();
-
-        }
-
+    }
     //How to read data from ArrayList using Iterator
         public static void readDataFromArrayList(){
             ArrayList<String> arrl = new ArrayList<String>();

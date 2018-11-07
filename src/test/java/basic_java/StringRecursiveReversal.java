@@ -3,7 +3,6 @@ package basic_java;
 public class StringRecursiveReversal {
     String reverse = "";
 
-
     public String reverseString(String str){
 
         if(str.length() == 1){

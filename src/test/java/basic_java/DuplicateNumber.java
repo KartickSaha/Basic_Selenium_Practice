@@ -1,5 +1,4 @@
 package basic_java;
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -10,9 +9,7 @@ public class DuplicateNumber {
         int duplicate = total - (highestNumber*(highestNumber+1)/2);
         return duplicate;
     }
-
     public int getSum(List<Integer> numbers){
-
         int sum = 0;
         for(int num:numbers){
             sum += num;
