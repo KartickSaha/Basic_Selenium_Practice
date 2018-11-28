@@ -2,47 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="883c0d41-4322-4cc4-9bb4-bb69c96d847c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_tulskiy_jkeymaster_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_vidstige_jadb__v1_0_g94ebf38_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_android_tools_dx_1_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_melloware_jintellitype_1_3_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_nativelibs4java_bridj_0_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sikulix_sikulix2tigervnc_2_0_0_SNAPSHOT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sikulix_sikulixapi_1_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sikulix_sikulixlibswin_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_net_commons_net_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_4_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_nop_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/basic_java/ConverStringArrayToArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/basic_java/CountVowel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/basic_java/GenerateGetterAndSetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/basic_java/RemoveVowel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/basic_java/TestNGTestCon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/basic_java/TestNG_Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/selenium_practice/RadioButtonHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/selenium_practice/ScreenShot01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/selenium_practice/SikuliConcept.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testNG.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_Selenium_Practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Selenium_Practice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_practice/Broken_Link_P2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_practice/Broken_Link_P2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_practice/CheckBoxConcept.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_practice/CheckBoxConcept.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_practice/DynamicTableHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_practice/DynamicTableHandle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_practice/Frame_Handle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_practice/Frame_Handle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_practice/RestAssuredConcept.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_practice/RestAssuredConcept.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_practice/TakeScreenShotConcept.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_practice/TakeScreenShotConcept.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Basic_Selenium_Practice-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/basic_java/EvenOdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/basic_java/EvenOdd.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/selenium_practice/Broken_Link_P2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenium_practice/Broken_Link_P2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/selenium_practice/DynamicTableHandle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenium_practice/DynamicTableHandle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/selenium_practice/RestAssured.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/selenium_practice/RestAssuredConcept.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenium_practice/RestAssuredConcept.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/selenium_practice/TakeScreenShotConcept.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenium_practice/TakeScreenShotConcept.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/basic_java/RemoveVowel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/basic_java/RemoveVowel.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -86,7 +46,7 @@
         <counts>
           <entry key="class" value="1" />
           <entry key="iml" value="2" />
-          <entry key="java" value="62" />
+          <entry key="java" value="65" />
           <entry key="jpg" value="2" />
           <entry key="properties" value="1" />
           <entry key="xml" value="4" />
@@ -97,7 +57,7 @@
           <entry key="CLASS" value="1" />
           <entry key="IDEA_MODULE" value="2" />
           <entry key="Image" value="2" />
-          <entry key="JAVA" value="62" />
+          <entry key="JAVA" value="65" />
           <entry key="Properties" value="1" />
           <entry key="XML" value="4" />
         </counts>
@@ -105,13 +65,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="7" />
-          <entry key="java" value="6484" />
+          <entry key="java" value="6588" />
           <entry key="xml" value="238" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6484" />
+          <entry key="JAVA" value="6588" />
           <entry key="PLAIN_TEXT" value="7" />
           <entry key="XML" value="238" />
         </counts>
@@ -121,28 +81,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/selenium_practice/Frame_Handle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="58" selection-start-line="58" selection-end-line="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/selenium_practice/CheckBoxConcept.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
               <caret line="52" column="10" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/selenium_practice/EncapsulationConcept.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -186,23 +128,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/CountVowel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-242">
-              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+            <state relative-caret-position="66">
+              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="33" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/selenium_practice/DynamicTableHandle.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/StringSortning.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="22">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/StringRecursiveReversal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-66">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/RemoveVowel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1122">
+              <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
             </state>
           </provider>
         </entry>
@@ -247,7 +204,6 @@
         <option value="$PROJECT_DIR$/src/test/java/basic_java/RememberTheseMethods.java" />
         <option value="$PROJECT_DIR$/src/test/java/basic_java/EvenOdd.java" />
         <option value="$PROJECT_DIR$/src/test/java/selenium_practice/SikuliConcept.java" />
-        <option value="$PROJECT_DIR$/src/test/java/basic_java/RemoveVowel.java" />
         <option value="$PROJECT_DIR$/src/test/java/selenium_practice/RestAssuredConcept.java" />
         <option value="$PROJECT_DIR$/src/test/java/selenium_practice/Broken_Link_P2.java" />
         <option value="$PROJECT_DIR$/src/test/java/basic_java/ConverStringArrayToArrayList.java" />
@@ -262,6 +218,7 @@
         <option value="$PROJECT_DIR$/src/test/java/selenium_practice/Frame_Handle.java" />
         <option value="$PROJECT_DIR$/src/test/java/selenium_practice/DynamicTableHandle.java" />
         <option value="$PROJECT_DIR$/src/test/java/basic_java/CountVowel.java" />
+        <option value="$PROJECT_DIR$/src/test/java/basic_java/RemoveVowel.java" />
       </list>
     </option>
   </component>
@@ -362,7 +319,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543374539523" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543376811579" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../HybridFrameWorkWithCostcoECommerce" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
@@ -386,19 +343,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.DynamicTableHandle.tableHandle02">
-    <configuration name="CheckBoxConcept.isSelectedcheckBox" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.RemoveVowel">
+    <configuration name="RemoveVowel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic_java.RemoveVowel" />
       <module name="Basic_Selenium_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="selenium_practice.*" />
+          <option name="PATTERN" value="basic_java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="selenium_practice" />
-      <option name="MAIN_CLASS_NAME" value="selenium_practice.CheckBoxConcept" />
-      <option name="METHOD_NAME" value="isSelectedcheckBox" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -494,19 +448,19 @@
     </configuration>
     <list>
       <item itemvalue="TestNG.C:/Users/ShiftStudent/.IdeaIC2018.2/system/temp-testng-customsuite.xml" />
-      <item itemvalue="JUnit.CheckBoxConcept.isSelectedcheckBox" />
       <item itemvalue="JUnit.RadioButtonHandling.radioButton" />
       <item itemvalue="JUnit.DynamicTableHandle.tableHandle03" />
       <item itemvalue="TestNG.DynamicTableHandle" />
       <item itemvalue="TestNG.DynamicTableHandle.tableHandle02" />
+      <item itemvalue="Application.RemoveVowel" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveVowel" />
         <item itemvalue="TestNG.DynamicTableHandle.tableHandle02" />
         <item itemvalue="TestNG.DynamicTableHandle" />
         <item itemvalue="JUnit.DynamicTableHandle.tableHandle03" />
         <item itemvalue="JUnit.RadioButtonHandling.radioButton" />
-        <item itemvalue="JUnit.CheckBoxConcept.isSelectedcheckBox" />
       </list>
     </recent_temporary>
   </component>
@@ -625,13 +579,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/StringRecursiveReversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/selenium_practicegoogle.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -653,13 +600,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="616">
           <caret line="40" column="10" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/StringSortning.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -768,13 +708,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/RemoveVowel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/selenium_practice/TakeScreenShotConcept.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
@@ -851,10 +784,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/StringSortning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/StringRecursiveReversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/CountVowel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-242">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        <state relative-caret-position="66">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/RemoveVowel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
         </state>
       </provider>
     </entry>
