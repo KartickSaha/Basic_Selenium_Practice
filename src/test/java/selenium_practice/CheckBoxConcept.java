@@ -47,7 +47,7 @@ public class CheckBoxConcept {
         WebElement element1 = driver.findElement(By.xpath("//div[@class = 'style-check']/label[@title ='Gas Station' and @for = 'hasGas-desktop']"));
         element1.click();
         Boolean check = driver.findElement(By.xpath("//div[@class = 'style-check']/label[@title ='Gas Station' and @for = 'hasGas-desktop']")).isEnabled();
-        System.out.println("Check box is enebled and it is"+check);
+        System.out.println("Check box is enebled and it is"+ check);
     }
 
     @After

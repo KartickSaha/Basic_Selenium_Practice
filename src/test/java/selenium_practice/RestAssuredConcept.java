@@ -72,7 +72,5 @@ public class RestAssuredConcept {
         int resCode = response.getStatusCode();
         System.out.println("Response code is-->"+resCode);
         Assert.assertEquals(resCode,200);
-
-
     }
 }
