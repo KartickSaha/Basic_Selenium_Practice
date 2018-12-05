@@ -33,8 +33,8 @@ public class SikuliConcept {
     @Test
     public void learnSikuli() throws FindFailed {
         Screen screen = new Screen();
-        Pattern imgPat = new Pattern("/src/test/java/selenium_practice/ScreenShot01.png");
-        screen.wait(imgPat,2000);
+        Pattern imgPath = new Pattern("/src/test/java/selenium_practice/ScreenShot01.png");
+        screen.wait(imgPath,2000);
         screen.click();
     }
 
