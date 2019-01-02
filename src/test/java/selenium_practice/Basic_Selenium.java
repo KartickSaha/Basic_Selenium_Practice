@@ -76,7 +76,7 @@ public class Basic_Selenium {
     }
 
     @Test
-    public  void elementDisplayed(){
+    public  void isElementDisplayed(){
      boolean elementPresent = driver.findElement(By.xpath("//a[@id = 'warehouse-locations-dropdown']")).isDisplayed();
         System.out.println(elementPresent);
 

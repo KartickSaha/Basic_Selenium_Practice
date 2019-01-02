@@ -4,6 +4,8 @@ public class GenerateGetterAndSetter {
 
     private String name;
 
+    private String age;
+
     public String getName() {
         return name;
     }
@@ -20,6 +22,6 @@ public class GenerateGetterAndSetter {
         this.age = age;
     }
 
-    private String age;
+
 
 }

@@ -21,5 +21,11 @@ public class StringRecursiveReversal {
         // How to find the length of String
         String s= "Bangla";
         System.out.println("Results of String length is -->"+s.length());
+
+        StringBuffer stringBuffer = new StringBuffer(s);
+       // stringBuffer.reverse();
+        stringBuffer.reverse();
+        System.out.println("reverse string is "+stringBuffer.reverse());
+
     }
 }

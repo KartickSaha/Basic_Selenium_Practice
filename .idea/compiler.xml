@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Basic_Selenium_Practice" target="1.5" />
+      <module name="Basic_Selenium_Practice" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
