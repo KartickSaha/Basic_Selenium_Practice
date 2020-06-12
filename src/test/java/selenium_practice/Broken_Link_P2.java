@@ -117,7 +117,24 @@ public class Broken_Link_P2 {
             }
         }
     }
-
+    @Test
+    public void brokenLink03() throws IOException {
+        List<WebElement> links = driver.findElements(By.tagName("a"));
+        int totalLink = links.size();
+        for (int i = 0; i < totalLink; i++) {
+            if (links.get(i).getAttribute("href") != null && (!links.get(i).getAttribute("href").contains("JavaScript"))) {
+                links.add(links.get(i));
+               {
+                    HttpURLConnection connection =
+                            (HttpURLConnection) new URL(links.get(i).getAttribute("href")).openConnection();
+                    connection.connect();
+                    String response = connection.getResponseMessage();
+                    connection.disconnect();
+                    System.out.println(links.get(i).getAttribute("href") + "---->" + response);
+                }
+            }
+        }
+    }
     @After
     public void tearDown() {
         driver.close();

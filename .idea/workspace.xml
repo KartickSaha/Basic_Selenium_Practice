@@ -2,45 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="883c0d41-4322-4cc4-9bb4-bb69c96d847c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/basic_java/CountLargestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/basic_java/CountMaximumNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/basic_java/SoftAssertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/basic_java/StringReverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/basic_java/CompareIgnoreCaseExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/basic_java/ContentEquals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/basic_java/LowerCaseExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/basic_java/RemoveDuplicateNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/basic_java/UpperCaseExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic_Selenium_Practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Selenium_Practice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/basic_java/GenerateGetterAndSetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/basic_java/GenerateGetterAndSetter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/basic_java/StringRecursiveReversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/basic_java/StringRecursiveReversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_practice/Basic_Selenium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_practice/Basic_Selenium.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/basic_java/ArrayListIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/basic_java/ArrayListIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/basic_java/ConverStringArrayToArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/basic_java/ConverStringArrayToArrayList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/basic_java/CountVowel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/basic_java/CountVowel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/basic_java/DuplicateNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/basic_java/DuplicateNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/basic_java/EvenOdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/basic_java/EvenOdd.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/basic_java/GenerateGetterAndSetter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/basic_java/GenerateGetterAndSetter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/basic_java/RememberTheseMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/basic_java/RememberTheseMethods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/basic_java/RemoveVowel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/basic_java/RemoveVowel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/basic_java/StringRecursiveReversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/basic_java/StringRecursiveReversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/basic_java/StringSortning.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/basic_java/StringSortning.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/basic_java/TestNGTestCon.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/basic_java/TestNGTestCon.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/basic_java/TestNG_Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/basic_java/TestNG_Practice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/selenium_practice/BarCodeHandle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenium_practice/BarCodeHandle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/selenium_practice/Broken_Link_P2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium_practice/Broken_Link_P2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Command line suite/Command line test.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Command line suite/Command line test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Command line suite/Command line test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Command line suite/Command line test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-basic_java.TestNGTestCon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-basic_java.TestNGTestCon.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/selenium_practice/Basic_Selenium.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenium_practice/Basic_Selenium.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/selenium_practice/BrokenLinks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenium_practice/BrokenLinks.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/selenium_practice/Broken_Link_P2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenium_practice/Broken_Link_P2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/selenium_practice/CheckBoxConcept.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenium_practice/CheckBoxConcept.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/selenium_practice/Drag_And_Drop.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenium_practice/Drag_And_Drop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/selenium_practice/DynamicTableHandle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenium_practice/DynamicTableHandle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/selenium_practice/EncapsulationConcept.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenium_practice/EncapsulationConcept.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/selenium_practice/ExcelDataRead.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenium_practice/ExcelDataRead.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/selenium_practice/Frame_Handle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenium_practice/Frame_Handle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/selenium_practice/Mouse_hover_Concept.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenium_practice/Mouse_hover_Concept.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/selenium_practice/PopUP.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenium_practice/PopUP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/selenium_practice/RadioButtonHandling.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenium_practice/RadioButtonHandling.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/selenium_practice/RestAssuredConcept.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenium_practice/RestAssuredConcept.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/selenium_practice/SikuliConcept.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenium_practice/SikuliConcept.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/selenium_practice/TakeScreenShotConcept.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/selenium_practice/TakeScreenShotConcept.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -59,39 +43,43 @@
     <session id="1897395368">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="22" />
+          <entry key="project.closed" value="28" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.205" value="1" />
           <entry key="project.open.time.247" value="1" />
           <entry key="project.open.time.30" value="1" />
-          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.32" value="2" />
           <entry key="project.open.time.33" value="2" />
           <entry key="project.open.time.40" value="2" />
           <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.43" value="1" />
           <entry key="project.open.time.46" value="1" />
-          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.50" value="1" />
           <entry key="project.open.time.55" value="1" />
           <entry key="project.open.time.56" value="3" />
+          <entry key="project.open.time.64" value="1" />
           <entry key="project.open.time.67" value="1" />
           <entry key="project.open.time.76" value="1" />
           <entry key="project.open.time.77" value="1" />
           <entry key="project.open.time.79" value="1" />
+          <entry key="project.open.time.81" value="1" />
           <entry key="project.open.time.9" value="1" />
+          <entry key="project.open.time.94" value="1" />
           <entry key="project.open.time.98" value="1" />
-          <entry key="project.opened" value="25" />
+          <entry key="project.opened" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
           <entry key="iml" value="2" />
-          <entry key="java" value="78" />
+          <entry key="java" value="100" />
           <entry key="jpg" value="2" />
           <entry key="properties" value="1" />
-          <entry key="xml" value="4" />
+          <entry key="xml" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -99,21 +87,21 @@
           <entry key="CLASS" value="1" />
           <entry key="IDEA_MODULE" value="2" />
           <entry key="Image" value="2" />
-          <entry key="JAVA" value="78" />
+          <entry key="JAVA" value="100" />
           <entry key="Properties" value="1" />
-          <entry key="XML" value="4" />
+          <entry key="XML" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="7" />
-          <entry key="java" value="7340" />
+          <entry key="java" value="7457" />
           <entry key="xml" value="238" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7340" />
+          <entry key="JAVA" value="7457" />
           <entry key="PLAIN_TEXT" value="7" />
           <entry key="XML" value="238" />
         </counts>
@@ -125,41 +113,71 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/DuplicateNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+            <state relative-caret-position="66">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/RemoveDuplicateNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/EvenOdd.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/selenium_practice/Basic_Selenium.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/ArrayListIterator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1056">
-              <caret line="50" selection-start-line="50" selection-end-line="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/StringRecursiveReversal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+            <state relative-caret-position="88">
+              <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/StringReverse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/RemoveVowel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="726">
+              <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/LowerCaseExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/UpperCaseExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/ContentEquals.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
               <caret line="15" selection-start-line="15" selection-end-line="15" />
@@ -168,49 +186,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/StringSortning.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/CompareIgnoreCaseExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="132">
+              <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/selenium_practice/BarCodeHandle.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/SoftAssertion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="704">
-              <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="56" />
+            <state relative-caret-position="88">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/selenium_practice/Basic_Selenium.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="78" column="38" lean-forward="true" selection-start-line="78" selection-start-column="38" selection-end-line="78" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/CountMaximumNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/CountLargestNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -244,7 +235,6 @@
         <option value="$PROJECT_DIR$/src/test/java/basic_java/RememberTheseMethods.java" />
         <option value="$PROJECT_DIR$/src/test/java/basic_java/EvenOdd.java" />
         <option value="$PROJECT_DIR$/src/test/java/selenium_practice/RestAssuredConcept.java" />
-        <option value="$PROJECT_DIR$/src/test/java/selenium_practice/Broken_Link_P2.java" />
         <option value="$PROJECT_DIR$/src/test/java/basic_java/ConverStringArrayToArrayList.java" />
         <option value="$PROJECT_DIR$/src/test/java/basic_java/TestNG_Practice.java" />
         <option value="$PROJECT_DIR$/src/test/java/basic_java/TestNGTestCon.java" />
@@ -265,6 +255,12 @@
         <option value="$PROJECT_DIR$/src/test/java/basic_java/CountLargestNumber.java" />
         <option value="$PROJECT_DIR$/src/test/java/basic_java/CountMaximumNumber.java" />
         <option value="$PROJECT_DIR$/src/test/java/selenium_practice/Basic_Selenium.java" />
+        <option value="$PROJECT_DIR$/src/test/java/selenium_practice/Broken_Link_P2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/basic_java/LowerCaseExample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/basic_java/UpperCaseExample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/basic_java/ContentEquals.java" />
+        <option value="$PROJECT_DIR$/src/test/java/basic_java/CompareIgnoreCaseExample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/basic_java/RemoveDuplicateNumber.java" />
       </list>
     </option>
   </component>
@@ -353,11 +349,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="selenium_practice" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Basic_Selenium_Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Basic_Selenium_Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -365,7 +356,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546460326721" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591844604218" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../HybridFrameWorkWithCostcoECommerce" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
@@ -389,9 +380,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BarCodeHandle.barCodeHandle">
-    <configuration name="CountLargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic_java.CountLargestNumber" />
+  <component name="RunManager" selected="Application.RemoveDuplicateNumber">
+    <configuration name="CompareIgnoreCaseExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic_java.CompareIgnoreCaseExample" />
       <module name="Basic_Selenium_Practice" />
       <extension name="coverage">
         <pattern>
@@ -403,8 +394,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountMaximumNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic_java.CountMaximumNumber" />
+    <configuration name="ContentEquals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic_java.ContentEquals" />
       <module name="Basic_Selenium_Practice" />
       <extension name="coverage">
         <pattern>
@@ -416,8 +407,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringRecursiveReversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic_java.StringRecursiveReversal" />
+    <configuration name="LowerCaseExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic_java.LowerCaseExample" />
       <module name="Basic_Selenium_Practice" />
       <extension name="coverage">
         <pattern>
@@ -429,8 +420,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic_java.StringReverse" />
+    <configuration name="RemoveDuplicateNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic_java.RemoveDuplicateNumber" />
       <module name="Basic_Selenium_Practice" />
       <extension name="coverage">
         <pattern>
@@ -442,18 +433,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BarCodeHandle.barCodeHandle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UpperCaseExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic_java.UpperCaseExample" />
       <module name="Basic_Selenium_Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="selenium_practice.*" />
+          <option name="PATTERN" value="basic_java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="selenium_practice" />
-      <option name="MAIN_CLASS_NAME" value="selenium_practice.BarCodeHandle" />
-      <option name="METHOD_NAME" value="barCodeHandle" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -483,19 +471,19 @@
     </configuration>
     <list>
       <item itemvalue="TestNG.C:/Users/ShiftStudent/.IdeaIC2018.2/system/temp-testng-customsuite.xml" />
-      <item itemvalue="Application.StringRecursiveReversal" />
-      <item itemvalue="Application.StringReverse" />
-      <item itemvalue="Application.CountMaximumNumber" />
-      <item itemvalue="Application.CountLargestNumber" />
-      <item itemvalue="JUnit.BarCodeHandle.barCodeHandle" />
+      <item itemvalue="Application.LowerCaseExample" />
+      <item itemvalue="Application.UpperCaseExample" />
+      <item itemvalue="Application.ContentEquals" />
+      <item itemvalue="Application.CompareIgnoreCaseExample" />
+      <item itemvalue="Application.RemoveDuplicateNumber" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.BarCodeHandle.barCodeHandle" />
-        <item itemvalue="Application.CountLargestNumber" />
-        <item itemvalue="Application.CountMaximumNumber" />
-        <item itemvalue="Application.StringReverse" />
-        <item itemvalue="Application.StringRecursiveReversal" />
+        <item itemvalue="Application.RemoveDuplicateNumber" />
+        <item itemvalue="Application.CompareIgnoreCaseExample" />
+        <item itemvalue="Application.ContentEquals" />
+        <item itemvalue="Application.UpperCaseExample" />
+        <item itemvalue="Application.LowerCaseExample" />
       </list>
     </recent_temporary>
   </component>
@@ -516,9 +504,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DynamicTableHandle_tableHandle03 - 2018.11.27 at 21h 52m 04s.xml">
-      <configuration name="DynamicTableHandle.tableHandle03" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="DynamicTableHandle - 2018.11.27 at 22h 02m 32s.xml">
       <configuration name="DynamicTableHandle" configurationId="TestNG" />
     </history-entry>
@@ -546,12 +531,14 @@
     <history-entry file="BarCodeHandle_barCodeHandle - 2018.12.30 at 20h 10m 39s.xml">
       <configuration name="BarCodeHandle.barCodeHandle" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Broken_Link_P2_brokenLink03 - 2019.01.02 at 16h 50m 47s.xml">
+      <configuration name="Broken_Link_P2.brokenLink03" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4976852" visible="true" weight="0.2605178" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4976852" visible="true" weight="0.28640777" />
       <window_info id="Structure" order="1" sideWeight="0.5023148" side_tool="true" weight="0.31391585" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -560,13 +547,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4959547" visible="true" weight="0.28881988" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49514562" weight="0.27329192" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.20186335" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.27329192" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5040453" side_tool="true" weight="0.3090062" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.27329192" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5048544" side_tool="true" weight="0.27329192" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4975728" weight="0.32919255" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -621,13 +608,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/test.iml" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium_practice/RestAssuredConcept.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1540">
-          <caret line="76" selection-start-line="76" selection-end-line="76" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.17/poi-ooxml-3.17.jar!/org/apache/poi/xssf/usermodel/XSSFSheet.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="59950">
@@ -642,34 +622,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/facebook.jpg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium_practice/Broken_Link_P2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1914">
-          <caret line="104" column="45" selection-start-line="104" selection-start-column="45" selection-end-line="104" selection-end-column="45" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testNG.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium_practice/BrokenLinks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -694,20 +653,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium_practice/TakeScreenShotConcept.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium_practice/Frame_Handle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="58" selection-start-line="58" selection-end-line="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/selenium_practice/EncapsulationConcept.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -722,37 +667,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium_practice/CheckBoxConcept.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="924">
-          <caret line="52" column="10" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium_practice/PopUP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1210">
-          <caret line="62" selection-start-line="62" selection-end-line="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/ConverStringArrayToArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/RemoveVowel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/selenium_practice/SikuliConcept.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="682">
@@ -760,27 +674,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium_practice/Drag_And_Drop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="35" column="3" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/GenerateGetterAndSetter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-          <folding>
-            <element signature="e#115#116#0" expanded="true" />
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#338#339#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -791,27 +688,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/SoftAssertion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/CountVowel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/DuplicateNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -836,17 +716,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/StringReverse.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="462">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/StringSortning.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium_practice/TakeScreenShotConcept.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="44">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium_practice/Broken_Link_P2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1848">
+          <caret line="101" column="14" selection-start-line="101" selection-start-column="14" selection-end-line="101" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium_practice/BrokenLinks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -857,27 +751,142 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/CountMaximumNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/StringSortning.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+        <state relative-caret-position="66">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium_practice/CheckBoxConcept.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="52" column="10" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/selenium_practice/BarCodeHandle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
+        <state relative-caret-position="264">
           <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium_practice/RestAssuredConcept.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium_practice/Frame_Handle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1166">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium_practice/PopUP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1210">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium_practice/Drag_And_Drop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="35" column="3" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/CountMaximumNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/ConverStringArrayToArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/DuplicateNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium_practice/Basic_Selenium.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium_practice/Basic_Selenium.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/StringReverse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="78" column="38" lean-forward="true" selection-start-line="78" selection-start-column="38" selection-end-line="78" selection-end-column="38" />
+        <state relative-caret-position="242">
+          <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/RemoveVowel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/LowerCaseExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/UpperCaseExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/ContentEquals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/CompareIgnoreCaseExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/SoftAssertion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/basic_java/RemoveDuplicateNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
