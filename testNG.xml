@@ -3,11 +3,29 @@
 
 <Suite name="Basic_Selenium_Practice">
     <test name = "TestNG_Test">
+        <parameter name = "myName" value="Kartick"/>
+
+        <groups>
+
+            <define name = "all">
+                <include name = "functest"/>
+                <include name = "checkintest"/>
+            </define>
+
+            <run>
+                <include name = "all"/>
+            </run>
+
+        </groups>
+
         <Classes>
 
-            <Class name ="basic_java.TestNGTestCon">
+            <Class name = "TestNG_Practice_2020">
 
             </Class>
+            <classes>
+                <class name = "" />
+            </classes>
         </Classes>
     </test>
 </Suite>
