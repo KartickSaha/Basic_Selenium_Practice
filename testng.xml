@@ -10,6 +10,7 @@
             <define name = "all">
                 <include name = "functest"/>
                 <include name = "checkintest"/>
+
             </define>
 
             <run>
@@ -23,9 +24,7 @@
             <Class name = "TestNG_Practice_2020">
 
             </Class>
-            <classes>
-                <class name = "" />
-            </classes>
+
         </Classes>
     </test>
 </Suite>

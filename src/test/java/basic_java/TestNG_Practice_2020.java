@@ -5,7 +5,7 @@ import org.testng.annotations.*;
 import org.testng.annotations.Test;
 
 public class TestNG_Practice_2020 {
-   ///*
+   /*
     String message = ".com";
 
     MessageUtil messageUtil = new MessageUtil(message);
@@ -24,17 +24,18 @@ public class TestNG_Practice_2020 {
         Assert.assertEquals(message, messageUtil.printMessage());
     }
 
-    @Test(groups = { "functest","checkintest" })
+  @Test(groups = { "functest","checkintest" })
     public void testSalutationMessage() {
         System.out.println("Inside testSalutationMessage()");
         message = "tutorialspoint" + ".com";
         Assert.assertEquals(message, messageUtil.salutationMessage());
     }
 
-    @Test(dependsOnMethods = { "testMessageTwo" })
-    public void testMessageThree() {
+ /*
+    @Test(dependsOnMethods = { "login" })
+    public void logOut() {
         System.out.println("Inside testSalutationMessage()");
-        message = "Hi!" + "Manisha";
+        message = "Hi!" + "Kartick";
         Assert.assertEquals(message, messageUtil.salutationMessage());
     }
     @Test
@@ -47,7 +48,7 @@ public class TestNG_Practice_2020 {
     public void testPrintMessage() {
         System.out.println("Inside testPrintMessage()");
         messageUtil.printMessage();
-    }
+    }*/
 
 /*    @Test(groups = { "functest" })
 
@@ -59,9 +60,8 @@ public class TestNG_Practice_2020 {
     //multiple line comment out(ctrl+shift+/) after select
     //single line comment out(ctrl+/)  after select
 
-//*/
 
-   /*
+
 
 
 
@@ -73,10 +73,10 @@ public class TestNG_Practice_2020 {
     }
 
     // test case 2
-    @Test
+/*    @Test
     public void testCase2() {
         System.out.println("in test case 2");
-    }
+    }*/
 
     @BeforeMethod
     public void beforeMethod() {
@@ -119,6 +119,7 @@ public class TestNG_Practice_2020 {
     }
 
 
-    */
+
+
 
 }
