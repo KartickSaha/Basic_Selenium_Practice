@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="883c0d41-4322-4cc4-9bb4-bb69c96d847c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/basic_java/TestNG_Practice_2020.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/basic_java/TestNG_Practice_2020.java" afterDir="false" />
-    </list>
+    <list default="true" id="883c0d41-4322-4cc4-9bb4-bb69c96d847c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -362,7 +360,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592495076657" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592495658869" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpreeCucumber" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
@@ -564,7 +562,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4976852" visible="true" weight="0.26779935" />
       <window_info id="Structure" order="1" sideWeight="0.5023148" side_tool="true" weight="0.31391585" />
