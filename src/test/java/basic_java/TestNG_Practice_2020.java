@@ -104,7 +104,9 @@ public class TestNG_Practice_2020 {
     }
 
     @AfterTest
-    public void afterTest() {
+    public void afterTest()
+    {
+        System.out.println("in afterTest");
         System.out.println("in afterTest");
     }
 
@@ -117,6 +119,9 @@ public class TestNG_Practice_2020 {
     public void afterSuite() {
         System.out.println("in afterSuite");
     }
+
+
+
 
 
 
